@@ -10,7 +10,7 @@
     <router-view/>
     <div class="footer">
       <p>Justin Lapicola</p>
-      <a href="https://github.com/BYUCS260/grocery-store-jdlapi.git">github repository</a>
+      <a href="https://github.com/jdlapi/cp3.jdlapi.com.git">github repository</a>
     </div>
   </div>
 </template>
